@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shinvari0068
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php, laravel, java, javafx
+- 🌱 I’m currently learning php, laravel, javascript, vue.js, java, javafx
 - 📫 How to reach me my email is shinvari00668@gmail.com
 
 <!---
